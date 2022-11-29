@@ -1,0 +1,15 @@
+Here is my text:I'm going to continue to add to this.Let's keep this up!This could take on a lot more complexity, I think.I wonder how to 
+ create a new line.
+ Below are some examples of using variables:
+ Matt Rueter & Victoria MacDonald both love each other. They got married in fall of 2018 in Madrid, Spain.
+ This is going much better now. However I still have a lot to learn. 
+
+ I may continue playing around with the 
+
+ built in modules in Node.js
+ I've better organized the file organization.
+ Victoria is home now. That's great!
+ What would you like to write?
+ Let's take it for a spin.
+ 
+ I am back.
