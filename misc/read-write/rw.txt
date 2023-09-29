@@ -1,15 +1,27 @@
-Here is my text:I'm going to continue to add to this.Let's keep this up!This could take on a lot more complexity, I think.I wonder how to 
- create a new line.
- Below are some examples of using variables:
- Matt Rueter & Victoria MacDonald both love each other. They got married in fall of 2018 in Madrid, Spain.
- This is going much better now. However I still have a lot to learn. 
-
- I may continue playing around with the 
-
- built in modules in Node.js
- I've better organized the file organization.
- Victoria is home now. That's great!
- What would you like to write?
- Let's take it for a spin.
- 
- I am back.
+LOGS:-------------------------------------------------------------
+Fri Sep 29 2023 13:04:18 GMT-0500 (Central Daylight Time) -------- 
+Msg sent. Username - Unamuno;
+Fri Sep 29 2023 14:58:19 GMT-0500 (Central Daylight Time) -------- 
+Logged on.Username - Umbral.;
+Fri Sep 29 2023 14:58:19 GMT-0500 (Central Daylight Time) -------- 
+Logged on. Username - Amis.;
+Fri Sep 29 2023 14:58:19 GMT-0500 (Central Daylight Time) -------- 
+Msg sent. Username - Nabokov.;
+Fri Sep 29 2023 14:58:19 GMT-0500 (Central Daylight Time) -------- 
+Msg sent. Username - Orwell.;
+Fri Sep 29 2023 14:58:19 GMT-0500 (Central Daylight Time) -------- 
+Msg sent. Username - Camus.;
+Fri Sep 29 2023 14:58:19 GMT-0500 (Central Daylight Time) -------- 
+Img sent. Username - Beauvoir.;
+Fri Sep 29 2023 14:58:19 GMT-0500 (Central Daylight Time) -------- 
+Msg sent. Username - Camus.;
+Fri Sep 29 2023 14:58:19 GMT-0500 (Central Daylight Time) -------- 
+Msg sent. Username - Umbral.;
+Fri Sep 29 2023 14:58:19 GMT-0500 (Central Daylight Time) -------- 
+Msg sent. Username - Goytisolo.;
+Fri Sep 29 2023 14:58:19 GMT-0500 (Central Daylight Time) -------- 
+Img sent. Username - Camus.;
+Fri Sep 29 2023 14:58:19 GMT-0500 (Central Daylight Time) -------- 
+Logged off. Username - Umbral;
+Fri Sep 29 2023 14:58:19 GMT-0500 (Central Daylight Time) -------- 
+Msg sent. Username - Orwell.;

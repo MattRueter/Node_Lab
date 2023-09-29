@@ -1,12 +1,2 @@
 Hi there.
 This is my text. It is very simple and I am going to retrieve and deliver bits of it at a time in streams.
-
-Here is some more information to make it a touch longer:
-My name is Matt and I've recently moved to Chicago from Madrid. It is a big change but I can keep myself
-distracted and busy learning full-stack web development.
-I'm currently learning Node.js and other backend tools and practices. 
-
-I still need to continue improving my overall understanding and ability in JavaScript and React. In the near future 
-I'll be building things using all of the tools I have learned and am currently learning. 
-
-I'll be sure to keep in touch.

@@ -1,3 +1,4 @@
 # Node Lab
 
-A place to practice node and create examples for later reference.
+## Purpose:
+To practice basic and intermediate Node concepts in isolation.

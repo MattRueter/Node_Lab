@@ -12,7 +12,7 @@ eventEmitter.on('click', ()=>{
 });
 //toggle color event
 eventEmitter.on('toggleColor', ()=>{
-	console.log("If I'm black I'm white and if I'm white I'm black.");
+	console.log("If I'm blue I'm red and if I'm red I'm blue.");
 });
 // more complext event
 eventEmitter.on('doStuff', ()=>{
